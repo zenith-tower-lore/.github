@@ -3,5 +3,6 @@
 ## This Github organization stores the documents seen on [TODO: PUT LINK HERE KTHXBAI]
 (because I am NOT working with google docs api. (todo: insert screenshot here)
 ###### (Note: you are welcome to contribute!)
+#### (Organization PFP by [Lauren Sheng](https://laurensheng.myportfolio.com/)!!)
 
 [^1]: https://garbo.gg/tetr-io/the-inspirations-behind-qp2/
